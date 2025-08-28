@@ -30,10 +30,10 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 ## **Features Implemented**
 
 ### **1. 3D Human Body Activity Enhancements**
-- **Multi-layer anatomical system integration:** Added skeletal, muscular, and organ systems with **dynamic layer toggling**.
-- **Doctor Mode (Shared Multiplayer Mode):** Real-time collaborative quiz feature over Sugar Presence API.
-- **Paint Mode & Learn Mode:** Users can select, color, and label parts with educational descriptions.
-- **Tour Mode:** Guided navigation across anatomical systems for structured learning.
+- **Multi-layer anatomical system integration:** Added skeletal, Human body, and organ systems with **dynamic layer toggling**.
+- **Doctor Mode:** Real-time collaborative quiz feature over Sugar Presence API.
+- **Paint Mode:** Users can select and color parts.
+- **Tour Mode:** Guided navigation across anatomical systems for learning.
 - **Localization:** Added multi-language support using **l10n.js** (English & French implemented).
 - **Performance Optimization:** Preprocessed models using Blender (polygon reduction, mesh optimization) to ensure smooth rendering on low-resource devices.
 - **UI Previews:**      
@@ -74,7 +74,7 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 ## **Architecture & Design Highlights**
 ### **Human Body Activity**
 - **Rendering Layer:** Three.js + GLTFLoader for loading models.
-- **Modes:** Paint, Learn, Tour, Doctor (Quiz).
+- **Modes:** Paint, Tour, Doctor.
 - **Networking:** Real-time sync for shared sessions via Presence API.
 - **Persistence:** State saving using Sugar Journal.
 
