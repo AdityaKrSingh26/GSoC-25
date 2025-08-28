@@ -116,7 +116,7 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 | 6    | Pressing start button in ColorMyWorld activity immediately shows Congratulations | [#1691](https://github.com/llaske/sugarizer/issues/1691)                                      | [#1692](https://github.com/llaske/sugarizer/pull/1692)                                     | Merged      |
 | 7    | Bug: Error loading Etoys activity                                                | [#1717](https://github.com/llaske/sugarizer/issues/1717)                                      | [#1718](https://github.com/llaske/sugarizer/pull/1718)                                     | Merged      |
 | 8    | Bug: BlockRain Activity Game Over Logic Fails When Side Columns Are Full        | [#1739](https://github.com/llaske/sugarizer/issues/1739)                                      | [#1741](https://github.com/llaske/sugarizer/pull/1741)                                     | Merged      |
-| 9    | Ability to resize images in Fototoon                                            | [#1551](https://github.com/llaske/sugarizer/issues/1551)                                      | [#1698](https://github.com/llaske/sugarizer/pull/1698)                                     | In Progress |
+| 9    | Ability to resize images in Fototoon                                            | [#1551](https://github.com/llaske/sugarizer/issues/1551)                                      | [#1698](https://github.com/llaske/sugarizer/pull/1698)                                     | Draft |
 
 ---
 
