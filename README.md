@@ -36,6 +36,12 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 - **Tour Mode:** Guided navigation across anatomical systems for structured learning.
 - **Localization:** Added multi-language support using **l10n.js** (English & French implemented).
 - **Performance Optimization:** Preprocessed models using Blender (polygon reduction, mesh optimization) to ensure smooth rendering on low-resource devices.
+- **UI Previews:**      
+   <img width="640" height="334" alt="humanbody1" src="https://github.com/user-attachments/assets/3d19b17d-8120-479c-b9a1-dbbe9f5bbc4e" />
+   <img width="640" height="334" alt="humanbody2" src="https://github.com/user-attachments/assets/25e03fe8-1954-47e3-bd0d-a664ea3e1f0e" />
+   <img width="640" height="334" alt="humanbody3" src="https://github.com/user-attachments/assets/6511a671-12f7-455d-9dc4-1f246a3734e7" />
+   <img width="640" height="334" alt="humanbody-shared" src="https://github.com/user-attachments/assets/7ea426d6-2ac9-4ea4-b466-ed157dd99e2e" />
+
 
 ### **2. Stickman Animation Activity**
 - **Joint-Based Stickman Editor:** Users can click and drag joints to create custom poses.
@@ -45,6 +51,11 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 - **AI-Pose Detection:** Integrated TensorFlow.js + PoseNet to generate stick figure poses from uploaded images.
 - **Export Feature:** Export animations as **WebM** videos using MediaRecorder API.
 - **Shared Mode:** Real-time collaboration using Sugarizer Presence API.
+- **UI Previews:**         
+   <img width="640" height="334" alt="stickmen-ui" src="https://github.com/user-attachments/assets/33156227-ccfa-49b2-9a1c-0f8756c189bf" />
+   <img width="640" height="334" alt="image" src="https://github.com/user-attachments/assets/a941ac73-ea6c-4c96-af50-3e6bd92cc27f" />
+   <img width="640" height="334" alt="image" src="https://github.com/user-attachments/assets/ded919d5-15db-4696-8278-261002bd0bee" />
+
 
 ---
 
@@ -71,14 +82,6 @@ Both activities are optimized for **Sugarizer** and designed for **offline-first
 - **Data Model:** Base + Delta frames for optimized animation storage.
 - **Constraints:** Maintains anatomical proportions when dragging joints.
 - **Export:** Uses frame-by-frame rendering to generate video output.
-
----
-
-## **UI Previews**
-*(Insert screenshots or provide GitHub link to images if available)*
-
-- Human Body Activity – Layer toggling, Paint Mode, Doctor Mode.
-- Stickman Activity – Editor, Timeline, Templates, Shared Mode.
 
 ---
 
