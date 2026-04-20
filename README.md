@@ -13,6 +13,9 @@
 **Co-mentor:** [Samarth Bagga](https://github.com/SamarthBagga)           
 
 ---
+## **Demo / Try It Out**
+**Demo Link:** [https://dev.sugarizer.org/](https://dev.sugarizer.org/) 
+
 
 ## **Project Overview**
 The objective of this project was to **enhance the 3D Human Body Activity** and **create a new Stickman Animation Activity** for Sugarizer, an open-source learning platform by Sugar Labs. These activities aim to make **learning anatomy and animation interactive, accessible, and collaborative**, especially for low-resource environments.
